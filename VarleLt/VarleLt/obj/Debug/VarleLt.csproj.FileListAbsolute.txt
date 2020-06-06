@@ -1,9 +1,14 @@
 C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\bin\Debug\VarleLt.exe.config
 C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\bin\Debug\VarleLt.exe
 C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\bin\Debug\VarleLt.pdb
-C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.csprojAssemblyReference.cache
 C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.Properties.Resources.resources
 C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.csproj.GenerateResource.cache
 C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.csproj.CoreCompileInputs.cache
 C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.exe
 C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.pdb
+C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.StartingWindow.resources
+C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\VarleLt\VarleLt\VarleLt\VarleLt\obj\Debug\VarleLt.csproj.CopyComplete
