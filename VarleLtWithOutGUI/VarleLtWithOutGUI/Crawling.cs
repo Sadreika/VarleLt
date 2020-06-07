@@ -11,27 +11,32 @@ namespace VarleLtWithOutGUI
     {
         public void startCrawling(string url)
         {
+            List<string> titles = new List<string>();
             try
             {
-                Console.WriteLine(url);
+                //Console.WriteLine(url);
                 HtmlWeb hw = new HtmlWeb();
                 HtmlDocument data = hw.Load(url);
-                foreach (HtmlNode link in data.DocumentNode.SelectNodes("//div[@class='grid-item product  first']//a"))
+              /*  foreach (HtmlNode link in data.DocumentNode.SelectNodes("//div[@class='grid-item product  first']//a[@class='title']"))
                 {
-                 
-                    // varleLtUrls.Add(link.GetAttributeValue("href", string.Empty));
+                     titles.Add(link.InnerText);
                 }
-                foreach (HtmlNode link in data.DocumentNode.SelectNodes("//div[@class='grid-item product  last']//a"))
+                */
+              /*  foreach (HtmlNode link in data.DocumentNode.SelectNodes("//div[@class='grid-item product  last']//a[@class='title']"))
                 {
-                  
-                    // varleLtUrls.Add(link.GetAttributeValue("href", string.Empty));
+                    titles.Add(link.InnerText);
                 }
-                foreach (HtmlNode link in data.DocumentNode.SelectNodes("//div[@class='grid-item product  ']//a"))
+                */
+                foreach (HtmlNode link in data.DocumentNode.SelectNodes("//div[@class='grid-item product  ']//a[@class='title']"))
                 {
-                   
-                    // varleLtUrls.Add(link.GetAttributeValue("href", string.Empty));
+                    titles.Add(link.InnerText);
                 }
-
+                
+                for(int i = 0; i < titles.Count; i++)
+                {
+                    Console.WriteLine(titles[i]);
+                }
+                
             }
             catch(Exception ex)
             {
